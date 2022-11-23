@@ -1,2 +1,2 @@
-# Reto-TS--I--CR
+# Reto-TS-CR
 Ejercicios.
